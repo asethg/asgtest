@@ -1,0 +1,14 @@
+create repo
+get repo url and copy
+in terminal
+git clone url
+**the folder from github will now be in my local folder
+if i add or change files to go back to the "hub" i need to add and commit
+first
+git add file (git add . adds all files)
+then
+commit with git commit -m " changes I made" (**-m adds a message saying what was done)
+then to send back to "hub" need to push
+git push origin master
+
+update repo on web and changes should be there
